@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstName": "homer",
+      "lastName": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "address": "123 Springfield",
+      "gender": "male",
+      "height": "5 11",
+      "startingWeight": "123",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "marge",
+      "lastName": "simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "address": "123 Springfield",
+      "gender": "female",
+      "height": "5 6",
+      "startingWeight": "80",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "name": "Mary Smith",
+      "gender": "female",
+      "email": "mary@hello.com",
+      "password": "secret",
+      "address": "13 street",
+      "height": "56",
+      "startingweight": "123",
+      "id": "de1ab9a8-6623-46f1-a448-c6b9295bbbcf"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "assessmentList": [
+    {
+      "id": "54d45d41-6d1a-45e2-9522-a1ab88c69dbf",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": 123,
+      "chest": 45,
+      "thigh": 77,
+      "upperarm": 30,
+      "waist": 56,
+      "hips": 80,
+      "comment": ""
+    },
+    {
+      "id": "22090815-e3b4-4bec-8103-09633de113f0",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "weight": 130,
+      "chest": 66,
+      "thigh": 45,
+      "upperarm": 45,
+      "waist": 66,
+      "hips": 88
+    }
+  ]
+}
